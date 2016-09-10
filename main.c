@@ -973,11 +973,12 @@ int main (int argc, char **argv) {
 
   if (!disable_output) {
     printf (
-      "Telegram-cli version " TELEGRAM_CLI_VERSION ", Copyright (C) 2013-2015 Vitaly Valtman\n"
-      "Telegram-cli comes with ABSOLUTELY NO WARRANTY; for details type `show_license'.\n"
-      "This is free software, and you are welcome to redistribute it\n"
-      "under certain conditions; type `show_license' for details.\n"
-      "Telegram-cli uses libtgl version " TGL_VERSION "\n"
+      "Telegram-CLI Runned\n"
+      ">------------------<\n"
+      "> F80 \n"
+      "> @SPRCPU_Team\n"
+      "> @SilenT_SPRCPU\n"
+      ">------------------<"
 #ifndef TGL_AVOID_OPENSSL 
       "Telegram-cli includes software developed by the OpenSSL Project\n"
       "for use in the OpenSSL Toolkit. (http://www.openssl.org/)\n"
